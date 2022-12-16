@@ -18,19 +18,22 @@ Session recording:
 https://drive.google.com/drive/folders/1B-xsoA81gkltN4tUQNFfaEPPbW7VZaI2
 
 Miss Faiza first session 25 November 
+
 Topic: Typescript basics 
+
 Recording link:
 
 https://drive.google.com/drive/folders/1B6bn3EHpFhA0qPv0hGVvjzGKBZXzmwFs
 
 Miss Faiza second session 2 December 
+Topic: Union, types and  interfaces.
 
 Recording link:
 
 https://drive.google.com/drive/folders/1aJ6-9O7hgLJht1kzkrlj0iAkmnL1sMVS
 
 Miss Faiza 3rd session 16 December 
-
+Topic: Object Oriented Programming in Typescript 
 Recording link:
 
 https://drive.google.com/drive/folders/1aQapl70uANWlRhetIE8_RJjZZRdwKlqK
