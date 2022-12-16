@@ -8,7 +8,8 @@ https://github.com/OkashaTanoli/JS_class_for_absolute_beginners
 
 Session recording:
 
-https://drive.google.com/drive/folders/1wioCaLXbyx9A_7X6pXBHQjzyPbbIwn8euA
+ 
+ https://drive.google.com/drive/folders/1wioCaLXx9A_7X6pXBHQjzyPbbIwn8euA
  
 
 Sunday 4 December Owais and Subhan session code
