@@ -19,14 +19,20 @@ https://github.com/muhammadsubhankhan/typescript
 
 Session recording:
 
-https://drive.google.com/drive/folders/1B-xsoA81gkltN4tUQNFfaEPPbW7VZaI2
+https://drive.google.com/drive/folders/1B-xsoA81gkltN4tUQNFfaEPPbW7VZaI2 
+
+
  
  10 December session by Owais and Subhan
  Topic: Typescript 
  
  recording:
  
- https://drive.google.com/drive/folders/1Ycy0nXch0ugfTsRTakNOZ2htQSzAYUHx
+ https://drive.google.com/drive/folders/1Ycy0nXch0ugfTsRTakNOZ2htQSzAYUHx 
+ 
+ 
+
+
   .
   .
   .
