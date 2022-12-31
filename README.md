@@ -63,7 +63,7 @@ https://drive.google.com/drive/folders/1aJ6-9O7hgLJht1kzkrlj0iAkmnL1sMVS
 
 Miss Faiza 3rd session 16 December 
 Topic: Object Oriented Programming in Typescript 
-Recording link:
+Recording link
 
 https://drive.google.com/drive/folders/1aQapl70uANWlRhetIE8_RJjZZRdwKlqK
 
@@ -71,6 +71,17 @@ code:
 
 https://github.com/fazzyA/PanaverseTSClass
 
+ 
+  
+  
+  
+  Typescript quiz preparation session 
+  step 1 to 5c is covered 
+  
+  
+  
+  
 
+https://drive.google.com/drive/folders/1-EhpnDf6ZoOEXgi3VB6KQ85WfZjSoi41
 
 
