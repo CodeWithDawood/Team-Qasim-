@@ -86,6 +86,11 @@ https://drive.google.com/drive/folders/1-EhpnDf6ZoOEXgi3VB6KQ85WfZjSoi41
 
  
 Miss Faiza Next js Basics Session 6th jan 2023
+Recording:
+
+https://drive.google.com/drive/folders/1ElH0QDFJPOxSwFXHxwfI-iV6h_smUgMI
+
+ 
 
  Class code
 https://github.com/fazzyA/piaic-next
