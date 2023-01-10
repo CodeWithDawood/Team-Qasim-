@@ -80,9 +80,6 @@ https://github.com/fazzyA/PanaverseTSClass
   
   
    
-Owais Ali conducted sessions on Next JS. All session recording will be available in following playlist 
-   
-https://www.youtube.com/watch?v=wa9XnDam8hs&list=PLOuusrHSc7P4qy0z4n26AxHMF6VZ1E3K0
 
 https://drive.google.com/drive/folders/1-EhpnDf6ZoOEXgi3VB6KQ85WfZjSoi41
 
@@ -96,4 +93,13 @@ https://drive.google.com/drive/folders/1ElH0QDFJPOxSwFXHxwfI-iV6h_smUgMI
  
 
  Class code
-https://github.com/fazzyA/piaic-next
+https://github.com/fazzyA/piaic-next 
+ 
+ 
+Owais Ali conducted sessions on Next JS. All session recording will be available in following playlist 
+   
+https://www.youtube.com/watch?v=wa9XnDam8hs&list=PLOuusrHSc7P4qy0z4n26AxHMF6VZ1E3K0
+ 
+  
+ 
+
