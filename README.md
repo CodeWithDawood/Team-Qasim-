@@ -81,7 +81,16 @@ https://github.com/fazzyA/PanaverseTSClass
   
    
 
-https://drive.google.com/drive/folders/1-EhpnDf6ZoOEXgi3VB6KQ85WfZjSoi41
+https://drive.google.com/drive/folders/1-EhpnDf6ZoOEXgi3VB6KQ85WfZjSoi41 
+
+ 
+ Owais Ali next js sessions playlist
+ 
+ https://www.youtube.com/playlist?list=PLOuusrHSc7P4qy0z4n26AxHMF6VZ1E3K0
+ 
+  Owais Ali typescript sessions playlist
+  
+ https://www.youtube.com/playlist?list=PLOuusrHSc7P6-_PXsRjD1gE15zI9vwJsE
 
  
 Miss Faiza Next js Basics Session 6th jan 2023
